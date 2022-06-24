@@ -40,3 +40,16 @@ scene.add_game_objects((ground, left_wall, right_wall))
 
 scene.run(60)
 ```
+### Demos
+
+![](https://github.com/nkarve/shard/blob/main/demos/gif1.gif)
+
+![](https://github.com/nkarve/shard/blob/main/demos/gif2.gif)
+
+![](https://github.com/nkarve/shard/blob/main/demos/gif3.gif)
+
+![](https://github.com/nkarve/shard/blob/main/demos/gif4.gif)
+
+### Guide
+
+See the [*How to Make a Physics Engine*](https://nkarve.github.io/programming/2021/06/29/physeng1.html) series on my website for an in-depth explanation of the physics, mathematics and programming behind this library.
